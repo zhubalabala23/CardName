@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Card Name</string>
+    <string name="name_surname">Tubagus Raka Satria Putra</string>
+    <string name="business">Junior Android Developers</string>
+    <string name="phone_number">856239892011</string>
+    <string name="email_text">raka230803@gmail.com</string>
+    <string name="share_text">tubagus.rakaa</string>
+</resources>
